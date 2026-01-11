@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1623679116710-78b05d2fe2f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjB3b3Jrc3BhY2UlMjBkZXNrfGVufDF8fHx8MTc2NDQ4ODI5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+    "title": "Optimisez votre flux de travail",
+    "description": "Découvrez comment améliorer votre productivité avec nos outils"
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1739298061740-5ed03045b280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwY29sbGFib3JhdGlvbiUyMG9mZmljZXxlbnwxfHx8fDE3NjQ1NjE4Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "title": "Collaboration en temps réel",
+    "description": "Travaillez ensemble de manière plus efficace"
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1608222351212-18fe0ec7b13b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGFuYWx5dGljcyUyMGRhc2hib2FyZHxlbnwxfHx8fDE3NjQ0OTQ5Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+    "title": "Analyses détaillées",
+    "description": "Suivez vos performances avec des données précises"
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1503418895522-46f9804cda40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjcmVhdGl2ZSUyMG1lZXRpbmclMjByb29tfGVufDF8fHx8MTc2NDU4NTM4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+    "title": "Réunions productives",
+    "description": "Organisez et planifiez vos réunions facilement"
+  }
+]
